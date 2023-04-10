@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+.todo-wrapper-container
+{
+    display: flex;
+    flex-direction: column;
+    gap:80px;
+    
+}
+
+.todo-wrapper-container h1
+{
+    font-family: Oswald;
+}
